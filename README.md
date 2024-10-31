@@ -51,4 +51,7 @@ using graphs and charts.
 
 ![Screen Shot 2024-10-31 at 5 48 47 PM](https://github.com/user-attachments/assets/a7a8b97e-4a4e-4fd5-94ff-056c21141a3c)
 
+- Discover the U.S. Foreign-Born Population by Place of Birth: I was able to find data determining which populations are foreign born from different backgrounds within states of the U.S. I was also able to see the economic, employment, and edcuation background of different foreign people born with different ethinicties.
+
+![Screen Shot 2024-10-31 at 6 29 40 PM](https://github.com/user-attachments/assets/8e17f4f9-61a2-439e-8110-8d175787934f)
 
