@@ -55,3 +55,6 @@ using graphs and charts.
 
 ![Screen Shot 2024-10-31 at 6 29 40 PM](https://github.com/user-attachments/assets/8e17f4f9-61a2-439e-8110-8d175787934f)
 
+- How to Gain Insights on Disability Characteristics in America with U.S. Census Bureau Statistics: It was interesting to view data on disability characteristics and compare it to other states. The data provided information that I didn't know and also comparisons and that could help states improve.
+
+![image](https://github.com/user-attachments/assets/87084797-5e66-4225-958d-ee0303c84671)
