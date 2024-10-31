@@ -42,3 +42,13 @@ Census Academy Achievements:
 using graphs and charts.
 
 ![Screen Shot 2024-10-31 at 5 24 06 PM](https://github.com/user-attachments/assets/ace55798-0cbf-4e9f-9eec-8dbf4689d652)
+
+- How to Find Population Counts for Detailed Race and Hispanic Origin Groups: I was able to look further into what areas around the U.S. are mainly populated with Hispanics. This connects with history and why people to choose those areas. I was also able to look into different ethinic/race groups orgin groups and how over the year they have migrated to diffrent areas.
+
+![Screen Shot 2024-10-31 at 5 37 33 PM](https://github.com/user-attachments/assets/f00cd0a7-afef-4e36-b483-464e3ad28e84)
+
+- How to Ceate an Area Profile to Visualize Jobs and Workforce Data: I found this very informative and helpful. It was informative by providing visuals and data on the area in which I live and what jobs people have along with their earnings. It helps because when I start looking for jobs, I will be able to look at this data and see what area is best for me to search for jobs.
+
+![Screen Shot 2024-10-31 at 5 48 47 PM](https://github.com/user-attachments/assets/a7a8b97e-4a4e-4fd5-94ff-056c21141a3c)
+
+
